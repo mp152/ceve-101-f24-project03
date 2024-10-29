@@ -1,7 +1,5 @@
 ---
 title: "CEVE 101: Project 03"
-author: "Your Name (your netid)"
-date: "2024-10-23"
 author: "Misha Patel mp152"
 date: "2024-10-29"
 output: html_document
